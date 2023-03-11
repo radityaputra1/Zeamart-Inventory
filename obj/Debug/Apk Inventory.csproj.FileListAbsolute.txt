@@ -1,0 +1,27 @@
+C:\Users\LENOVO\source\repos\Apk Inventory\bin\Debug\Data Produk.accdb
+C:\Users\LENOVO\source\repos\Apk Inventory\bin\Debug\Apk Inventory.exe.config
+C:\Users\LENOVO\source\repos\Apk Inventory\bin\Debug\Apk Inventory.exe
+C:\Users\LENOVO\source\repos\Apk Inventory\bin\Debug\Apk Inventory.pdb
+C:\Users\LENOVO\source\repos\Apk Inventory\obj\Debug\Apk Inventory.csproj.AssemblyReference.cache
+C:\Users\LENOVO\source\repos\Apk Inventory\obj\Debug\Apk_Inventory.Form1.resources
+C:\Users\LENOVO\source\repos\Apk Inventory\obj\Debug\Apk_Inventory.Form2.resources
+C:\Users\LENOVO\source\repos\Apk Inventory\obj\Debug\Apk_Inventory.Properties.Resources.resources
+C:\Users\LENOVO\source\repos\Apk Inventory\obj\Debug\Apk Inventory.csproj.GenerateResource.cache
+C:\Users\LENOVO\source\repos\Apk Inventory\obj\Debug\Apk Inventory.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\source\repos\Apk Inventory\obj\Debug\Apk Inventory.exe
+C:\Users\LENOVO\source\repos\Apk Inventory\obj\Debug\Apk Inventory.pdb
+C:\Users\LENOVO\source\repos\Apk Inventory\obj\Debug\Apk Inventory.csproj.SuggestedBindingRedirects.cache
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\obj\Debug\Apk Inventory.csproj.AssemblyReference.cache
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\obj\Debug\Apk Inventory.csproj.SuggestedBindingRedirects.cache
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\obj\Debug\Apk_Inventory.Form1.resources
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\obj\Debug\Apk_Inventory.Form2.resources
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\obj\Debug\Apk_Inventory.Properties.Resources.resources
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\obj\Debug\Apk Inventory.csproj.GenerateResource.cache
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\obj\Debug\Apk Inventory.csproj.CoreCompileInputs.cache
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\obj\Debug\Apk Inventory.exe
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\obj\Debug\Apk Inventory.pdb
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\bin\Debug\Data Produk.accdb
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\bin\Debug\Login inv.accdb
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\bin\Debug\Apk Inventory.exe.config
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\bin\Debug\Apk Inventory.exe
+D:\XII RPL 6'2\Ujian Sekolah\BOOTCAMP\Apk Inventory\bin\Debug\Apk Inventory.pdb
